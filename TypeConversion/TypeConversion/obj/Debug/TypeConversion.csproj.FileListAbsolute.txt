@@ -1,0 +1,7 @@
+C:\Users\Dennis\Desktop\CSharpWork\TypeConversion\TypeConversion\bin\Debug\TypeConversion.exe.config
+C:\Users\Dennis\Desktop\CSharpWork\TypeConversion\TypeConversion\bin\Debug\TypeConversion.exe
+C:\Users\Dennis\Desktop\CSharpWork\TypeConversion\TypeConversion\bin\Debug\TypeConversion.pdb
+C:\Users\Dennis\Desktop\CSharpWork\TypeConversion\TypeConversion\obj\Debug\TypeConversion.csprojResolveAssemblyReference.cache
+C:\Users\Dennis\Desktop\CSharpWork\TypeConversion\TypeConversion\obj\Debug\TypeConversion.csproj.CoreCompileInputs.cache
+C:\Users\Dennis\Desktop\CSharpWork\TypeConversion\TypeConversion\obj\Debug\TypeConversion.exe
+C:\Users\Dennis\Desktop\CSharpWork\TypeConversion\TypeConversion\obj\Debug\TypeConversion.pdb

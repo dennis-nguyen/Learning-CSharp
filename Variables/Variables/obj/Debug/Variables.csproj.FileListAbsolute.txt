@@ -1,0 +1,7 @@
+C:\Users\Dennis\Desktop\CSharpWork\Variables\Variables\bin\Debug\Variables.exe.config
+C:\Users\Dennis\Desktop\CSharpWork\Variables\Variables\bin\Debug\Variables.exe
+C:\Users\Dennis\Desktop\CSharpWork\Variables\Variables\bin\Debug\Variables.pdb
+C:\Users\Dennis\Desktop\CSharpWork\Variables\Variables\obj\Debug\Variables.csprojResolveAssemblyReference.cache
+C:\Users\Dennis\Desktop\CSharpWork\Variables\Variables\obj\Debug\Variables.csproj.CoreCompileInputs.cache
+C:\Users\Dennis\Desktop\CSharpWork\Variables\Variables\obj\Debug\Variables.exe
+C:\Users\Dennis\Desktop\CSharpWork\Variables\Variables\obj\Debug\Variables.pdb
